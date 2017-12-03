@@ -6,7 +6,6 @@ import com.bttt.service.input.InputMark;
 
 import java.util.stream.Stream;
 
-import static io.vavr.API.*;
 
 /**
  * @author Sem Babenko.
